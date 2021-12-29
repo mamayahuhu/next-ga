@@ -20,5 +20,8 @@
   "bugs": {
     "url": "https://github.com/mamayahuhu/use-ga/issues"
   },
-  "homepage": "https://github.com/mamayahuhu/use-ga#readme"
+  "homepage": "https://github.com/mamayahuhu/use-ga#readme",
+  "devDependencies": {
+    "typescript": "4.5.4"
+  }
 }
