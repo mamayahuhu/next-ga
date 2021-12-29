@@ -4,6 +4,7 @@
   "description": "Integrate Google Analytics in react hook way. ",
   "main": "index.js",
   "scripts": {
+    "lint": "eslint . --ext .js,.jsx,.ts,.tsx",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
@@ -22,6 +23,9 @@
   },
   "homepage": "https://github.com/mamayahuhu/use-ga#readme",
   "devDependencies": {
+    "@typescript-eslint/eslint-plugin": "5.8.1",
+    "@typescript-eslint/parser": "5.8.1",
+    "eslint": "8.5.0",
     "typescript": "4.5.4"
   }
 }
